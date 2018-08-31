@@ -1,0 +1,16 @@
+{
+  "name": "h-sr-s",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "-test"
+  },
+  "author": "Steven Hall",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "faker": "^4.1.0"
+  }
+}
